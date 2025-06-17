@@ -3,8 +3,8 @@ import react from "@vitejs/plugin-react";
 import path from "path";
 
 export default defineConfig(({ mode }) => ({
-  base: mode === "production" ? "/BuilderPortfolio/" : "/",
-  server: {
+   base: "/",
+   server: {
     host: "::",
     port: 8080,
   },
