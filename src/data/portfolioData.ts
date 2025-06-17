@@ -22,8 +22,8 @@ export const PERSONAL_INFO = {
     "Passionate about creating innovative solutions through code and technology.",
   email: "shettyshashank089@gmail.com",
   phone: "+91-6361128305",
-  github: "https://github.com/shashankshetty",
-  portfolio: "shashank.git",
+  github: "https://github.com/shashankshetty1",
+  portfolio: "https://shashankshettyy.netlify.app/",
   location: "Bangalore, India",
 } as const;
 
@@ -249,8 +249,8 @@ export const PROJECTS: Project[] = [
       "Random Forest",
       "Feature Extraction",
     ],
-    github: "https://github.com/shashankshetty",
-    live: "#",
+    github: "https://github.com/shashankshetty1",
+    live: "mailto:shashankshetty123@gmail.com",
     image:
       "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
     period: "February 2025",
@@ -262,8 +262,8 @@ export const PROJECTS: Project[] = [
     description:
       "Virtual keyboard to enhance user experience and accessibility across desktops, laptops, tablets, and smartphones. Features customization and adaptability, allowing users to tailor their input interface to their needs.",
     tech: ["OpenGL", "Python", "Computer Vision", "UI/UX"],
-    github: "https://github.com/shashankshetty",
-    live: "#",
+    github: "https://github.com/shashankshetty1",
+    live: "mailto:shashankshetty123@gmail.com",
     image:
       "https://images.pexels.com/photos/671629/pexels-photo-671629.jpeg?w=600&h=400&fit=crop",
     period: "July 2024",
@@ -275,8 +275,8 @@ export const PROJECTS: Project[] = [
     description:
       "Created a responsive website for a rice mill to help improve its online presence and make it easier for people to find information. The website includes a map to the location, contact details, and a live weather report to help with daily planning. This project shows how I built a complete frontend website for real industry use.",
     tech: ["HTML", "CSS", "JavaScript", "Responsive Design", "Weather API"],
-    github: "https://github.com/shashankshetty",
-    live: "#",
+    github: "https://github.com/shashankshetty1",
+    live: "https://harekrishnaricemill.netlify.app/",
     image:
       "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=600&h=400&fit=crop",
     period: "June 2024",

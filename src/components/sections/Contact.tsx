@@ -56,7 +56,7 @@ const Contact = () => {
     {
       icon: Github,
       title: "GitHub",
-      value: "github.com/shashankshetty",
+      value: "https://github.com/shashankshetty1",
       href: PERSONAL_INFO.github,
       description: "Check out my repositories",
       color: "bg-gray-700",
